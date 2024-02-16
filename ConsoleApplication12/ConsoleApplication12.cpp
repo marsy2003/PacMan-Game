@@ -1,5 +1,3 @@
-//MARJERY DILIG
-//SUFIAN MOJADDEDI
 #include <iostream>
 #include "windows.h"
 #include <fstream>
